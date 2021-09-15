@@ -1,0 +1,10 @@
+name: computational-chemistry
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib
+  - ase
+  - nglview
