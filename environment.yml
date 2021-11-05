@@ -1,6 +1,7 @@
 name: computational-chemistry
 channels:
   - conda-forge
+  - psi4
 dependencies:
   - python
   - numpy
@@ -8,3 +9,4 @@ dependencies:
   - matplotlib
   - ase
   - nglview
+  - psi4
